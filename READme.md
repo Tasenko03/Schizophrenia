@@ -29,7 +29,7 @@ The model was evaluated on a validation split with the following results:
 * ROC AUC	82.60%
 * Precision	75.68%
 
-## Project Structure
+### Project Structure
 * read_as_melspectrogram: Advanced audio-to-image conversion.
 * SpecAugment: Frequency and time domain masking for audio data.
 * Shico_model: The core neural network architecture.
